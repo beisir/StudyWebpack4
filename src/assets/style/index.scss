@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background: url('../images/topIco.png');
+    div {
+        color: red;
+        font-size: 100px;
+    }
+}
